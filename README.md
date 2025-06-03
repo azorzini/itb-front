@@ -2,6 +2,10 @@
 
 A React/Next.js application that analyzes Annual Percentage Rates (APR) for Uniswap V2 pairs with customizable moving average windows.
 
+## Live Demo
+
+[Click here](https://itb-front.netlify.app/)
+
 ## Features
 
 - **APR Chart Visualization** - Interactive charts showing APR trends over time using Recharts
